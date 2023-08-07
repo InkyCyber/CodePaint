@@ -1,0 +1,45 @@
+//COPY AND PASTE FROM FIRST BRACKET
+{
+    "window.zoomLevel": 1.9,
+    "workbench.colorTheme": "Abyss",
+    "workbench.colorCustomizations": {
+    "tab.activeBackground": "#128a70"
+    ,"editor.background": "#2e7561"
+    ,"tab.inactiveBackground": "#0a4f27"
+    ,"editor.lineHighlightBackground": "#12552e"
+    ,"editor.hoverHighlightBackground": "#12872d"
+    ,"editorCursor.background": "#0a6246"
+    ,"editorCursor.foreground": "#000000"
+    ,"editor.lineHighlightBorder": "#134c12"
+    ,"editorError.background": "#981414"
+    ,"editorHint.foreground": "#bf5a1b"
+    ,"tab.hoverBackground": "#1b9a4b"
+    ,"tab.hoverForeground": "#000000"
+    ,"tab.activeForeground": "#000000"
+    ,"tab.inactiveForeground": "#000000"
+    ,"activityBar.activeBackground": "#12713e"
+    ,"activityBar.foreground": "#000000"
+    ,"activityBar.inactiveForeground": "#157631"
+    ,"activityBar.background": "#1e4a2b"
+    ,"sideBar.background": "#348a4b"
+    },
+     "launch": {
+         "configurations": [],
+         "compounds": []
+     },
+     "editor.tokenColorCustomizations": {
+         "comments": "#048f09"
+         ,"variables": "#b00303"
+          ,"keywords": "#0a8383"
+          ,"strings": "#8c7a12"
+          ,"numbers": "#42b72b"
+          ,"functions": "#b833b8c1"
+          ,"types": "#b0941a" 
+           
+    },
+    //IMPORTANT
+    //REMOVE THE THE LINE BELOW IF YOU DONT USE TABNINE
+    "tabnine.experimentalAutoImports": true,
+      }
+    //END OF FILE  
+   
