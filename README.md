@@ -5,6 +5,9 @@
 # The CodePaint Repo
 ## What is it?
 CodePaint is a set of JSON files that allow you to customize and re-theme your VS Code install
-## How to use
-Use Crl + Shift + P or CMD + Shift + P and enter Open User Settings (JSON) then select the theme you like and copy and paste.
-Please credit me if this is re-posted feel free to use CodePaint as a base to make your own custom VS Code Theme
+## How do you use it?
+Use the keyboard shortcut Crl + Shift + P (Windows) or CMD + Shift + P (Mac) and enter Open User Settings (JSON) then select the theme you like to use from our Themes Folder 
+and copy and paste the contents of the file into the document.
+
+
+## Created by InkyCyber as part of The Elixir Company 
